@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @skasman
-- 👀 I’m interested in time-series.
-- 🌱 I’m currently learning network behaviour analysis, dissemination, predictions in the time-series events. 
-- 💞️ I’m looking to collaborate in the development and research.
+- 👋 Hi, Me here
+- 👀 I’m digging in time-series and blockchain.
+- 🌱 Currently paving in behaviour analysis, dissemination, predictions od the time-series events. 
+- 💞️ Looking for the collaboration in blockchain security research and development.
 - 📫 How to reach me here: ___(^oo^)___
 
 <!---
